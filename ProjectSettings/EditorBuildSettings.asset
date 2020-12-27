@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu Screen.unity
+    guid: f9c3db5a4ab8f474b8b7b2519e32a0b6
+  - enabled: 1
+    path: Assets/Scenes/Keyboard Scene.unity
+    guid: 5e84678bbe02745d584346613899cb5c
+  - enabled: 1
+    path: Assets/Scenes/Tutorial Scene.unity
+    guid: c0beb52bb0e0e4adc8d91ac07a71a607
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 2ba4dbd235ed941bb8fdb5a40ab00f22,
+      type: 2}
